@@ -1,0 +1,26 @@
+0x155886 		One Of: DVMT Pre-Allocated, VarStoreInfo (VarOffset/VarName): 0x107, VarStore: 0x2, QuestionId: 0x276, Size: 1, Min: 0x0, Max 0xFE, Step: 0x0 {05 91 52 11 65 11 76 02 02 00 07 01 10 10 00 FE 00}
+0x155897 			Default: DefaultId: 0x0, Value (8 bit): 0x1 {5B 06 00 00 00 01}
+0x15589D 			One Of Option: 0M, Value (8 bit): 0x0 {09 07 53 11 00 00 00}
+0x1558A4 			One Of Option: 32M, Value (8 bit): 0x1 {09 07 54 11 00 00 01}
+0x1558AB 			One Of Option: 64M, Value (8 bit): 0x2 {09 07 55 11 00 00 02}
+0x1558B2 			One Of Option: 4M, Value (8 bit): 0xF0 {09 07 56 11 00 00 F0}
+0x1558B9 			One Of Option: 8M, Value (8 bit): 0xF1 {09 07 57 11 00 00 F1}
+0x1558C0 			One Of Option: 12M, Value (8 bit): 0xF2 {09 07 58 11 00 00 F2}
+0x1558C7 			One Of Option: 16M, Value (8 bit): 0xF3 {09 07 59 11 00 00 F3}
+0x1558CE 			One Of Option: 20M, Value (8 bit): 0xF4 {09 07 5A 11 00 00 F4}
+0x1558D5 			One Of Option: 24M, Value (8 bit): 0xF5 {09 07 5B 11 00 00 F5}
+0x1558DC 			One Of Option: 28M, Value (8 bit): 0xF6 {09 07 5C 11 00 00 F6}
+0x1558E3 			One Of Option: 32M/F7, Value (8 bit): 0xF7 {09 07 5D 11 00 00 F7}
+0x1558EA 			One Of Option: 36M, Value (8 bit): 0xF8 {09 07 5E 11 00 00 F8}
+0x1558F1 			One Of Option: 40M, Value (8 bit): 0xF9 {09 07 5F 11 00 00 F9}
+0x1558F8 			One Of Option: 44M, Value (8 bit): 0xFA {09 07 60 11 00 00 FA}
+0x1558FF 			One Of Option: 48M, Value (8 bit): 0xFB {09 07 61 11 00 00 FB}
+0x155906 			One Of Option: 52M, Value (8 bit): 0xFC {09 07 62 11 00 00 FC}
+0x15590D 			One Of Option: 56M, Value (8 bit): 0xFD {09 07 63 11 00 00 FD}
+0x155914 			One Of Option: 60M, Value (8 bit): 0xFE {09 07 64 11 00 00 FE}
+0x15591B 		End One Of {29 02}
+0x15591D 		One Of: DVMT Total Gfx Mem, VarStoreInfo (VarOffset/VarName): 0x108, VarStore: 0x2, QuestionId: 0x277, Size: 1, Min: 0x1, Max 0x3, Step: 0x0 {05 91 66 11 67 11 77 02 02 00 08 01 10 10 01 03 00}
+0x15592E 			Default: DefaultId: 0x0, Value (8 bit): 0x2 {5B 06 00 00 00 02}
+0x155934 			One Of Option: 128M, Value (8 bit): 0x1 {09 07 68 11 00 00 01}
+0x15593B 			One Of Option: 256M, Value (8 bit): 0x2 {09 07 69 11 00 00 02}
+0x155942 			One Of Option: MAX, Value (8 bit): 0x3 {09 07 6A 11 00 00 03}
